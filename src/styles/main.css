@@ -2,6 +2,20 @@ body{
     background-color: #F2F2F2;
     font-family: 'Vazirmatn', sans-serif;
 }
+.signinBut{
+    border-radius: 5px;
+    background-color: #F1B704;
+    color: white;
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    width: 80px;
+    padding: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+
+
 .mainBl{
     background-color: white;
     width: 1000px;
